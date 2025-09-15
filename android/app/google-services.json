@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444736298516",
+    "project_id": "movieapp-f8ca4",
+    "storage_bucket": "movieapp-f8ca4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444736298516:android:709097334c294d7f9f5101",
+        "android_client_info": {
+          "package_name": "com.example.repiceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdXeHkTOa034TLmBzQ9cN_7EDfN-IlYEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
