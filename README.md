@@ -2,11 +2,26 @@
 
 Bu proje Flutter ile geliştirilmiş bir film uygulamasıdır.  
 
-## Özellikler
-- 🔑 Firebase Authentication ile kullanıcı girişi
-- 🎥 Movie API ile film listeleri
-- ⭐ Favorilere film ekleme
-- 👤 Profil düzenleme
+🚀 Özellikler
+
+🔑 Kullanıcı Girişi & Kayıt
+Firebase Authentication ile güvenli e-posta/şifre tabanlı kullanıcı girişi ve kayıt işlemleri.
+
+🎥 Film Listeleri
+Movie API üzerinden güncel ve popüler filmler listelenir. Kullanıcılar film detaylarını (isim, afiş, IMDB puanı vb.) görüntüleyebilir.
+
+⭐ Favoriler
+Beğenilen filmler kolayca favorilere eklenebilir ve favori listesi profil sayfasında görüntülenebilir.
+
+👤 Profil Yönetimi
+Kullanıcılar ad, e-posta ve telefon numaralarını düzenleyebilir.
+
+🔍 Arama Özelliği
+İstenilen film kolayca bulunabilir.
+
+
+📱 Responsive Tasarım
+Hem Android hem de iOS cihazlarla uyumludur.
 
 ## Ekran Görüntüleri
 
